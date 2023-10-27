@@ -9,7 +9,7 @@
 ## 개요
  - 목적 : 메뉴 추천
  - 사용 언어
- - - 서버 : express.js
+   - 서버 : express.js
    - DB : MySQL
    - 웹 : React
     
