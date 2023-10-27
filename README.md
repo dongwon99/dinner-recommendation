@@ -1,3 +1,3 @@
 # 저녁 메뉴 추천
 
-![Untitled](https://www.notion.so/5316b1186d8343799576e251087efd76?pvs=4#8c9781b37cd145aa846767711627d97b)
+(![image](https://github.com/dongwon99/dinner-recommendation/assets/102962030/1e93783d-0fa3-4f5b-82ff-dd98f333940e))
